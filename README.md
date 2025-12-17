@@ -20,18 +20,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fikriplmbng&theme=dracula)
 
 #### Play
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Fikri-Palembang-24100/Muhammad-Fikri-Palembang-24100/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Fikri-Palembang-24100/Muhammad-Fikri-Palembang-24100/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhammad-Fikri-Palembang-24100/Muhammad-Fikri-Palembang-24100/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Muhammad-Fikri-Palembang-24100/Muhammad-Fikri-Palembang-24100/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Muhammad-Fikri-Palembang-24100/Muhammad-Fikri-Palembang-24100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
